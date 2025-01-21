@@ -30,3 +30,10 @@ _Esto es cursiva 2_
 ```
 <h1>Hola mundo</h1>
 ```
+
+## Receta del ceviche
+
+1. Pescado
+2. Limon
+3. Aji Limo
+4. Lechuga
